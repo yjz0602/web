@@ -21,7 +21,7 @@
 2. 登录 [Vercel](https://vercel.com/)
 3. 点击 ""New Project""
 4. 导入您的仓库
-5. 点击 ""Deploy""
+5. 点击 ""Deploy"" (Vercel 会自动识别这是静态网站)
 
 ## 本地开发
 
@@ -42,7 +42,6 @@
 - index.html - 主页面
 - styles.css - 样式文件
 - script.js - JavaScript 功能
-- ercel.json - Vercel 配置文件
 - 产品照片/ - 产品图片资源
 
 ## 功能特性
